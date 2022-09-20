@@ -1,0 +1,47 @@
+.limitador {
+    max-width: 1000px;
+    margin: 0px auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+.logo-imagem {
+    width: 59px;
+}
+
+.logo {
+    display: flex;
+
+}
+
+.link-inicial{ 
+    background-color: blue;
+    color: black;
+}
+
+.secao1 {
+    background-color: lightgrey;
+}
+
+.titulo {
+    display: flex;
+    gap: 10%;
+}
+
+.card-image {
+    width: 22px;
+    
+}
+.card {
+    font-size: 5px;
+}
+.Topicos{
+    font-size: 18px;
+    text-align: center;
+    flex-direction: row;
+}
+.one{
+    text-align: center;
+}
